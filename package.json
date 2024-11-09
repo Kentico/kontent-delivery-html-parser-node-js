@@ -45,7 +45,7 @@
         "bundle-stats": "npm run build:umd && webpack-bundle-analyzer dist/bundles/stats.json"
     },
     "dependencies": {
-        "parse5": "7.1.2",
+        "parse5": "7.2.0",
         "striptags": "3.2.0"
     },
     "peerDependencies": {
